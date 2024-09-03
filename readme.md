@@ -33,17 +33,6 @@ To run tests, run the following command
 
   ![App Screenshot](./readme/images/cart.png?raw=true "cart")
 
-- address page
-
-  ![App Screenshot](./readme/images/address-page.png?raw=true "address page")
-
-- payment page
-  <img src="./readme/images/payment-page.png">
-
-- order summary page
-
-  ![App Screenshot](./readme/images/summary-page.png/?raw=true "order summary page")
-
 ## Installation
 
 Install my-project with npm
